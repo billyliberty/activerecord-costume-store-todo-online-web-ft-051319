@@ -15,7 +15,7 @@ class CreateCostumes < ActiveMigration[4.2]
       t.string :size
       t.string :image_url
       t.float :price
-      t.timestamps null: false
+      t.timestamps 
     end
   end
 end
