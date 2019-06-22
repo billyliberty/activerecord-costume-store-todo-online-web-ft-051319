@@ -13,4 +13,3 @@ class CreateCostumeStores < ActiveRecord::Migrate
     end
   end
 end
-      
